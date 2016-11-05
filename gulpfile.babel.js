@@ -19,7 +19,7 @@ const paths = {
   gulpFile: 'gulpfile.babel.js',
   webpackFile: 'webpack.config.babel.js',
   libDir: 'lib',
-  distDir: 'dist',
+  distDir: 'demo',
 };
 
 gulp.task('lint', () =>

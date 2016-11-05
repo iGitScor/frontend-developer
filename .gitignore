@@ -9,4 +9,8 @@
 
 # Library output
 /lib/
-/dist/client-bundle.js*
+/demo/client-bundle.js*
+
+# Documentation output
+/docs/css
+/docs/index.html
