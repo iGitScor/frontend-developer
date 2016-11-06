@@ -1,5 +1,7 @@
 # Frontend developer playground
 
+[![Build Status](https://travis-ci.org/igitscor/frontend-developer.svg?branch=master)](https://travis-ci.org/igitiscor/frontend-developer)
+
 ## Table of contents
 
 0. [Project dependencies](#dependency-management)
