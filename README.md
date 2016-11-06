@@ -1,6 +1,8 @@
 # Frontend developer playground
 
 [![Build Status](https://travis-ci.org/iGitScor/frontend-developer.svg?branch=master)](https://travis-ci.org/iGitScor/frontend-developer)
+[![dependencies Status](https://david-dm.org/iGitScor/frontend-developer/status.svg)](https://david-dm.org/iGitScor/frontend-developer)
+[![devDependencies Status](https://david-dm.org/iGitScor/frontend-developer/dev-status.svg)](https://david-dm.org/iGitScor/frontend-developer?type=dev)
 
 ## Table of contents
 
