@@ -1,6 +1,6 @@
 # Frontend developer playground
 
-[![Build Status](https://travis-ci.org/igitscor/frontend-developer.svg?branch=master)](https://travis-ci.org/igitiscor/frontend-developer)
+[![Build Status](https://travis-ci.org/iGitScor/frontend-developer.svg?branch=master)](https://travis-ci.org/iGitScor/frontend-developer)
 
 ## Table of contents
 
